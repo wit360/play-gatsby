@@ -4,4 +4,5 @@ module.exports = {
     title: "play-gatsby",
   },
   plugins: [],
+  pathPrefix: '/play-gatsby',
 };
