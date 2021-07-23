@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/play-gatsby',
+  pathPrefix: `/play-gatsby`,
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "play-gatsby site title",
